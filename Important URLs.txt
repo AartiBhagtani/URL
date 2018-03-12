@@ -1,7 +1,7 @@
 General 
 
 High Resolution images - https://unsplash.com/
-Learn Firebase(google material design lite covered) youtube(tvac studio)- https://www.youtube.com/playlistlist=PLGCjwl1RrtcRTbJ9WBL9exbUFNqwzz9if
+Learn Firebase(google material design lite covered) youtube(tvac studio)- https://www.youtube.com/playlist?list=PLGCjwl1RrtcRTbJ9WBL9exbUFNqwzz9if
 Learn Vue - net ninja 
 Learn Laravel - travercy media 
 Learn git - corey schafer
