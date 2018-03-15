@@ -16,3 +16,5 @@ ML -siraj, andrew, sentdex
 dataset - uci, kaggle
 technical papers - siraj description, ieee, sci-hub
 
+Other Technologies
+full stack web -https://www.quora.com/What-should-a-real-full-stack-web-developer-know-in-2018
