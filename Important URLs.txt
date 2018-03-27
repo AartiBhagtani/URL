@@ -16,3 +16,6 @@ technical papers - siraj description, ieee, sci-hub
 
 Other Technologies
 full stack web -https://www.quora.com/What-should-a-real-full-stack-web-developer-know-in-2018
+
+Python
+python freeze http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt
