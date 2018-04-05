@@ -18,4 +18,12 @@ Other Technologies
 full stack web -https://www.quora.com/What-should-a-real-full-stack-web-developer-know-in-2018
 
 Python
+
+Basics numpy and pandas
+BLog - https://towardsdatascience.com/a-quick-introduction-to-the-numpy-library-6f61b7dee4db
+
 python freeze http://www.idiotinside.com/2015/05/10/python-auto-generate-requirements-txt
+youtube python- TheEngineeringWorld https://www.youtube.com/watch?v=Uct_EbThV1E&list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK
+
+Gradient Boost
+https://www.kaggle.com/grroverpr/gradient-boosting-simplified/notebook
