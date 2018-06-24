@@ -27,3 +27,5 @@ youtube python- TheEngineeringWorld https://www.youtube.com/watch?v=Uct_EbThV1E&
 
 Gradient Boost
 https://www.kaggle.com/grroverpr/gradient-boosting-simplified/notebook
+
+ycombinator - they basically provides support and give platform to startups : https://www.ycombinator.com/
