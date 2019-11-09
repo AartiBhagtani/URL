@@ -29,3 +29,9 @@ Gradient Boost
 https://www.kaggle.com/grroverpr/gradient-boosting-simplified/notebook
 
 ycombinator - they basically provides support and give platform to startups : https://www.ycombinator.com/
+
+Jenkins - from guru99
+
+ruby basics - codeacdemy
+
+Regex - youtube - rainbow, the coding train.
